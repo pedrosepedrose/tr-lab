@@ -10,9 +10,9 @@ This is a beta, testing with friends. A page on tools.doralicedoralice.com is co
 
 ## Installing
 
-1. Unzip the download and drag **TR-8S Lab** into **Applications**.
+1. Unzip the download and drag **TR LAB** into **Applications**.
 2. Open it from Applications. macOS will say it can't verify the app. Click **Done**.
-3. Open **System Settings › Privacy & Security**, scroll down to the message about TR-8S Lab, and click **Open Anyway**.
+3. Open **System Settings › Privacy & Security**, scroll down to the message about TR LAB, and click **Open Anyway**.
 4. Quit Roland's TR Editor if it's open: it holds the TR-8S's USB ports.
 5. Connect the TR-8S by USB. The welcome guide opens; press **Back up now** before you change anything.
 
