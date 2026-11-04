@@ -26,7 +26,7 @@ The app talks to your TR-8S over USB and nothing else: no account, no analytics,
 
 ## Feedback
 
-Open an issue here, or tell Pedro.
+Email [support@doralicedoralice.com](mailto:support@doralicedoralice.com?subject=TR%20LAB%20feedback): what you were doing, what happened (a screenshot or screen recording helps), your Mac, macOS version and TR-8S firmware. If you use GitHub, you can open an issue here instead.
 
 ---
 
