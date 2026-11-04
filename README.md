@@ -6,7 +6,7 @@ TR LAB shows all 128 kits and 128 patterns at once. Move, copy and rename them l
 
 **[Download for Mac](https://github.com/pedrosepedrose/tr-lab/releases/latest/download/TR-8S-Lab-mac.zip)** · macOS 11+ · tested on Apple Silicon · needs a TR-8S on firmware 3.00, connected by USB
 
-This is a beta, testing with friends. A page on tools.doralicedoralice.com is coming.
+This is a beta, testing with friends. More: [tools.doralicedoralice.com/tr-lab](https://tools.doralicedoralice.com/tr-lab/)
 
 ## Installing
 
